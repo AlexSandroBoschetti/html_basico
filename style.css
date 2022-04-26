@@ -1,0 +1,28 @@
+h1 {
+font-size: 120px;
+color: #cdcdcd;
+text-shadow: 1px 1px white, -1px -1px #444;
+font-family: 'Lato', sans-serif;
+margin: 0;
+position: absolute;
+top: 42%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%)
+}
+
+p {
+font-size: 80px;
+color: #cdcdcd;
+text-shadow: 1px 1px white, -1px -1px #444;
+font-family: 'Lato', sans-serif;
+margin: 0;
+position: absolute;
+top: 57%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%)
+}
+
+
+
